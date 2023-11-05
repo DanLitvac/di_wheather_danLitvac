@@ -1,0 +1,42 @@
+.header {
+  background-color:#918B76;
+}
+
+#weatherData {
+  display: none;
+}
+
+#search-button {
+  background: #ACA885;
+}
+
+#search-button:hover {
+  background: #d3cd96;
+}
+
+#get-location-button {
+  background: #ACA885;
+}
+
+#get-location-button:hover {
+  background: #d3cd96;
+}
+
+.list-group {
+  list-style: none;
+  cursor: pointer;
+  background: transparent;
+}
+#clear-history{
+  background: #ACA885;
+}
+#clear-history:hover {
+  background: #d3cd96;
+}
+i {
+  font-size: 1em;
+}
+#list{
+  overflow: auto;
+  height: 70%;
+}
